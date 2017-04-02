@@ -1,0 +1,78 @@
+body {
+	font-family: sans-serif, Helvetica Neue, Helvetica, Raleway;
+	line-height: 1.5;
+	font-size: 14px;
+}
+
+.content {
+	min-height: 90%;
+	min-height: 90vh;
+	display: flex;
+	text-align: center;
+	position: relative;
+	align-items: center;
+	justify-content: center;
+}
+
+
+.footer {
+	margin: 0;
+	padding: 0;
+	display: block;
+	text-align: center;
+	max-height: 10%;
+}
+
+.intro-title {
+	font-family: sans-serif, Helvetica Neue, Helvetica, raleway;
+	font-size: 7em;
+	font-weight: 500;
+}
+
+.social-icons {
+	font-size: 2em;
+	display: block;
+	box-sizing: inherit;
+	line-height: 3em;
+	letter-spacing: 1rem;
+	color: inherit;
+}
+
+
+.blog-main {
+	display: block;
+	font-size: 2rem;
+}
+
+.title {
+	font-size: 28px;
+	text-transform: capitalize;
+}
+
+.title a {
+	text-decoration: none;
+	color: #000;
+}
+
+.strong-title {
+	font-weight: 500;
+}
+
+.post-data {
+	font-size: 14px;
+	color: gray;
+	line-height: 0;
+}
+
+.post-content {
+	margin-top:5%;
+	font-size: 14px;
+}
+
+.blog-share {
+	font-size: 14px;
+	margin-top: 12px;
+	line-height: 0;
+}
+
+
